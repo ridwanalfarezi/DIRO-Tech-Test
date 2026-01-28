@@ -33,8 +33,8 @@ This application serves as a technical demonstration of a reservation system. It
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd diro-tech-test
+    git clone https://github.com/ridwanalfarezi/DIRO-Tech-Test
+    cd DIRO-Tech-Test
     ```
 
 2.  **Install dependencies:**
